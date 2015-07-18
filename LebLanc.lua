@@ -3,7 +3,7 @@ Hax2God's LeBlanc
 -- CONSTANTS
 local RANGE_Q = 700
 local RANGE_W = 600
-local RANGE_E = 1000
+local RANGE_E = 800
 local RANGE_R = 600
 
 local myHero = nil
